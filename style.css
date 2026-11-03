@@ -1,0 +1,67 @@
+100%
+
+body {
+    margin: 0; 
+    font-family: Arial, sans-serif; 
+    background: lightpink; 
+    color: black; 
+}
+
+
+#container {
+    width: 80%; 
+    margin: 50px auto;
+    padding: 24px; 
+    background: snow; 
+    border: 2px solid lightblue; 
+}
+
+#header{
+   background: lightsteelblue;
+   text-align: center;
+   padding: 15px;
+}
+.subtitle{
+color: darkpink;
+font-size: 18px;
+}
+
+#main {
+ padding: 15px;
+display: flex;
+gap: 20px;
+}
+
+
+#sidebar {
+    width: 30%;     
+    background: powderblue; 
+    padding: 15px;
+}
+#content{
+width: 70%
+}
+
+
+#sidebar img {
+    width: 120px;
+    height: 120px;
+object-fit: cover;
+    margin: 0 0 10px 15px; 
+    border: 1px solid lightblue;
+margin: 0 0 10px 15px;
+
+}
+
+.section {
+  background:aliceblue;
+padding: 10px;
+margin-bottom; 10px;
+border: 1p solid gray;
+}
+h2{
+color: darkpink;
+}
+li{
+margin:5px;
+}
